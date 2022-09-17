@@ -1,4 +1,4 @@
-#How to setup
+# How to setup
 
 1. Clone the git repository
    1. Go to the directory from the terminal you want to set up the project
